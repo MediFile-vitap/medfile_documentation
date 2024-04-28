@@ -14,7 +14,7 @@ Medifile provides a sinple interface where they can view, install and carry thei
 
 ## How It Works 💡
 
-Medifile utilizes the Aadhar card or the iris scanner of the patient to access emergency record in the case of severe emergencies and give doctors an easy platform to diagnose and prescribe medicines accordingly. Moreover, having all medical records in the palm of a hand makes it easier for anyone to share their reports with their loved onex and also always have then handy.
+Medifile utilizes the Aadhar card or the iris scanner of the patient to access emergency record in the case of severe emergencies and give doctors an easy platform to diagnose and prescribe medicines accordingly. Moreover, having all medical records in the palm of a hand makes it easier for anyone to share their reports with their loved onex and also always have them handy.
 
 ![c4dbf252-c580-427d-a8c2-8a2565de4880](https://github.com/MediFile-vitap/medfile_documentation/assets/125081935/70d261f1-3cf7-4c52-8bb5-9d059b649271)
 
